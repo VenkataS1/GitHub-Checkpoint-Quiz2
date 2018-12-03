@@ -5,7 +5,7 @@ public class GitTest{
 	public GitTest(){
 		sentence = "This is my GitHub test";
 	}
-	public String toString(){
+	public String toString(){ /;fggd
 		return sentence;
 	}
 }
