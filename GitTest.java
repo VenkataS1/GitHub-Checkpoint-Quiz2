@@ -1,5 +1,5 @@
 public class GitTest{
-	//Venkata
+	//Venkata Sanikommu
 	private String sentence;
 
 	public GitTest(){
